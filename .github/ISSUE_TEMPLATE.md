@@ -32,7 +32,7 @@ Model: *Device model here. (Samsung S6? Oneplus 3?)*
 
 Android version: *Android verison here. (Lollipop? KitKat?)*
 
-Architecture: *ARM? x86 is not supported.*
+Architecture: *ARM or x86*
 
 MC:PE version: *0.XX.XX*
 
