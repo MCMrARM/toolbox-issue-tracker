@@ -30,7 +30,7 @@ What mods and or texture packs do you have installed?
 
 Model: *Device model here. (Samsung S6? Oneplus 3?)*
 
-Android version: *Android verison here. (Lollipop? KitKat?)*
+Android version: *Android version here. (Lollipop? KitKat?)*
 
 Architecture: *ARM or x86*
 
